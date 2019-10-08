@@ -1,8 +1,7 @@
 # Getting started
 
-This sample simply creates a rectangle object and inserts it into the artboard.
-[Read the step-by-step guide for this sample](https://adobexdplatform.com/plugin-docs/tutorials/quick-start/).
+This AdobeXD plugin copies the placeholder image URL to the clipboard.
 
 ## Usage
 
-1. Run "Plugins > Create Rectangle"
+1. Run "Plugins > Copy Placeholder Image URL"
