@@ -1,0 +1,28 @@
+{
+  "name": "Copy Placeholder Image URL",
+  "host": {
+    "app": "XD",
+    "minVersion": "21.0"
+  },
+  "id": "2b8c7296",
+  "icons": [
+    {
+      "path": "images/icon@1x.png",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "path": "images/icon@2x.png",
+      "width": 48,
+      "height": 48
+    }
+  ],
+  "uiEntryPoints": [
+    {
+      "label": "Copy Placeholder Image URL",
+      "type": "menu",
+      "commandId": "copy"
+    }
+  ],
+  "version": "0.0.1"
+}
